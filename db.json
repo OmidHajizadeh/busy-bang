@@ -1,0 +1,109 @@
+{
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "hello",
+      "alterEgo": "world",
+      "id": 4
+    },
+    {
+      "name": "",
+      "alterEgo": "",
+      "id": 5
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Monica Geller"
+    }
+  ],
+  "users": [
+    {
+      "id": "vishwas@gmail.com",
+      "channelId": "codevolution"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codevolution",
+      "course": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    },
+    {
+      "id": "test",
+      "course": [
+        "test",
+        "test",
+        "test"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "color": "blue"
+    },
+    {
+      "id": 3,
+      "color": "green"
+    },
+    {
+      "id": 4,
+      "color": "purple"
+    },
+    {
+      "id": 5,
+      "color": "yellow"
+    },
+    {
+      "id": 6,
+      "color": "pink"
+    },
+    {
+      "id": 7,
+      "color": "blue"
+    },
+    {
+      "id": 8,
+      "color": "black"
+    },
+    {
+      "id": 9,
+      "color": "white"
+    },
+    {
+      "id": 10,
+      "color": "gray"
+    }
+  ]
+}
